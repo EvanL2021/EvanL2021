@@ -62,9 +62,9 @@ Hello there, here you can see my projects, ideas, and contributions to other pro
 ### Version Control
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/cloud/github.svg" width="40" height="40" alt="Github" />
 
-## My Projects
+## My Public Projects
 
-- [SOTF Save Manager](https://github.com/EvanL2021/sotf-savemanager) - Web application made with Angular to manipulate your Sons of the forest save files.
-- [DRM](https://github.com/EvanL2021/drm) - Basic backend made with bun for a Digital Right Managements to manage which can access to your scripts.
+- (In progress) [Tierlist Maker](https://github.com/EvanL2021/tierlist-maker) - Web application made with Angular to create tierlists.
+- (In progress) [DRM](https://github.com/EvanL2021/drm) - Basic backend made with bun for a Digital Right Managements to manage which can access to your scripts.
 
 Thank you for visiting my GitHub!
