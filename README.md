@@ -19,6 +19,7 @@ Hello there, here you can see my projects, ideas, and contributions to other pro
   <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/frameworks/spring.svg" width="40" height="40" alt="Java Spring Boot" />
   <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/php.svg" width="40" height="40" alt="PHP" />
   <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/frameworks/nodejs.svg" width="40" height="40" alt="NodeJS" />
+  <img src="https://bun.sh/logo.svg" width="40" height="40" alt="Bun" />
 </p>
 
 ### Frontend
