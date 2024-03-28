@@ -66,5 +66,6 @@ Hello there, here you can see my projects, ideas, and contributions to other pro
 
 - (In progress) [Tierlist Maker](https://github.com/EvanL2021/tierlist-maker) - Web application made with Angular to create tierlists.
 - (In progress) [DRM](https://github.com/EvanL2021/drm) - Basic backend made with bun for a Digital Right Managements to manage which can access to your scripts.
+- [AWS Rss Reader](https://github.com/EvanL2021/aws-rss-reader) - Rss reader that send new feeds into a notion db
 
 Thank you for visiting my GitHub!
