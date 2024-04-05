@@ -63,6 +63,9 @@ Also, you can check my portfolio website [here](https://evanl2021.github.io)
 ### Version Control
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/cloud/github.svg" width="40" height="40" alt="Github" />
 
+### Cloud
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/cloud/amazon.svg" width="40" height="40" alt="Amazon Web Services" />
+
 ## My Public Projects
 
 - (In progress) [My portfolio](https://github.com/EvanL2021/portfolio) - My portfolio made with angular.
