@@ -70,6 +70,6 @@ Also, you can check my portfolio website [here](https://evanl2021.github.io)
 
 - (In progress) [My portfolio](https://github.com/EvanL2021/portfolio) - My portfolio made with angular.
 - (In progress) [Tierlist Maker](https://github.com/EvanL2021/tierlist-maker) - Web application made with Angular to create tierlists.
-- [AWS Rss Reader](https://github.com/EvanL2021/aws-rss-reader) - Rss reader that send new feeds into a notion db
+- (In progress) [AWS Rss Reader](https://github.com/EvanL2021/aws-rss-reader) - Rss reader that send new feeds into a notion db
 
 Thank you for visiting my GitHub!
