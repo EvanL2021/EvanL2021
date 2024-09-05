@@ -5,8 +5,8 @@ Also, you can check my portfolio website [here](https://evanl2021.github.io)
 
 ## About Me
 
-- 👨‍💻 Currently working at IBM
-- 🧑‍🎓 I’m currently learning web & mobile development.
+- 👨‍💻 Currently working at ArcelorMittal
+- 🧑‍🎓 I’m currently learning web development.
 - 💬 Ask me anything about web development.
 - 📫 How to reach me: evan.labit2@gmail.com
 
