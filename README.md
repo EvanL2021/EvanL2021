@@ -5,71 +5,61 @@ Also, you can check my portfolio website [here](https://evanl2021.github.io)
 
 ## About Me
 
-- 👨‍💻 Currently working at ArcelorMittal
-- 🧑‍🎓 I’m currently learning web development.
+- 👨‍💻 Currently working at ArcelorMittal France as an apprentice.
+- 🧑‍🎓 I am studying for a Master's degree in Free Software Engineering at the University of Littoral Côte d'Opale in Calais.
 - 💬 Ask me anything about web development.
 - 📫 How to reach me: evan.labit2@gmail.com
 
-## Programming Languages and Technologies
+## My main tech stack
   
 ### Backend
-
-<p>
-  <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/javascript.svg" width="40" height="40" alt="Javascript" />
-  <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/typescript.svg" width="40" height="40" alt="Typescript" />
-  <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/frameworks/spring.svg" width="40" height="40" alt="Java Spring Boot" />
-  <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/php.svg" width="40" height="40" alt="PHP" />
-  <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/frameworks/nodejs.svg" width="40" height="40" alt="NodeJS" />
-  <img src="https://bun.sh/logo.svg" width="40" height="40" alt="Bun" />
-</p>
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=fff)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=fff)
 
 ### Frontend
-<p>
-  <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/javascript.svg" width="40" height="40" alt="Javascript" />
-  <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/typescript.svg" width="40" height="40" alt="Typescript" />
-  <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/frameworks/jquery.svg" width="40" height="40" alt="JQuery" />
-  <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/html5.svg" width="40" height="40" alt="HTML5" />
-  <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/css3.svg" width="40" height="40" alt="CSS3" />
-  <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/frameworks/react.svg" width="40" height="40" alt="React" />
-  <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/frameworks/vuejs.svg" width="40" height="40" alt="VueJS" />
-  <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/frameworks/angular.svg" width="40" height="40" alt="Angular" />
-</p>
+![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ### Mobile development
-<p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="40" height="40" alt="React Native" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Google-flutter-logo.svg" width="40" height="40" alt="Flutter" />
-</p>
-
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=fff)
+![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ### Databases
-<p>
-  <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/databases/mongodb.svg" width="40" height="40" alt="MongoDB" />
-  <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/databases/mysql.svg" width="40" height="40" alt="MySQL" />
-  <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/databases/postgresql.svg" width="40" height="40" alt="PostgreSQL" />
-</p>
+![Microsoft SQL Server](https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=mssqlserver-white&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)
+![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
-### Miscellaneous
-<p>
-  <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/programming%20languages/c%23.svg" width="40" height="40" alt="C#" />
-  <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/programming%20languages/rust.svg" width="40" height="40" alt="Rust" />
-  <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/java.svg" width="40" height="40" alt="Java" />
-  <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/python.svg" width="40" height="40" alt="Python" />
-</p>
+### Messaging
+![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 ### Containers
-<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/cloud/docker.svg" width="40" height="40" alt="Docker" />
+![Docker](https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white)
+
+
+### Docs
+![Docusaurus](https://img.shields.io/badge/Docusaurus-3ECC5F?style=for-the-badge&logo=docusaurus&logoColor=fff)
 
 ### Version Control
-<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/cloud/github.svg" width="40" height="40" alt="Github" />
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
 
 ### Cloud
-<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/cloud/amazon.svg" width="40" height="40" alt="Amazon Web Services" />
+![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=msazure&logoColor=white)
 
-## My Public Projects
+### Tools
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=fff)
+![Bun](https://img.shields.io/badge/Bun-000?style=for-the-badge&logo=bun&logoColor=fff)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-- [My portfolio](https://github.com/EvanL2021/portfolio) - My portfolio made with angular.
-- (In progress) [Tierlist Maker](https://github.com/EvanL2021/tierlist-maker) - Web application made with Angular to create tierlists.
-- (In progress) [AWS Rss Reader](https://github.com/EvanL2021/aws-rss-reader) - Rss reader that send new feeds into a notion db
+### Miscellaneous
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
+![C](https://img.shields.io/badge/C-00599C?logo=c&style=for-the-badge&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?style=for-the-badge&logo=cshrp&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&&logo=rust&logoColor=white)
 
-Thank you for visiting my GitHub!
+## See my pinned projects below ⬇️
